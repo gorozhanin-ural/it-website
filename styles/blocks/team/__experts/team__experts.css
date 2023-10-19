@@ -1,0 +1,6 @@
+.team__experts {
+  display: flex;
+  justify-content: center;
+  padding: 2px;
+  overflow: hidden;
+}

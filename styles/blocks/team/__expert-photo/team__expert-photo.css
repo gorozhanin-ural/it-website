@@ -1,0 +1,8 @@
+.team__expert-photo {
+  inline-size: 380px;
+  block-size: 250px;
+  margin-block-end: 20px;
+  border-radius: 5px;
+  object-fit: cover;
+  object-position: center;
+}

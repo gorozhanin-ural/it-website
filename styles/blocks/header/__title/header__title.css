@@ -1,0 +1,8 @@
+.header__title {
+  grid-area: title;
+  margin: 0;
+  margin-block-end: 30px;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 1.5;
+}

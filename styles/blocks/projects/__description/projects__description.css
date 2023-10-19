@@ -1,0 +1,7 @@
+.projects__description {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  row-gap: 30px;
+  inline-size: 400px;
+}

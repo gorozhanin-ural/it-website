@@ -1,0 +1,12 @@
+.love__content-button {
+  grid-area: button;
+  align-self: flex-start;
+  margin-block-start: 7px;
+  color: #fff;
+  font-weight: 400;
+  font-size: 14px;
+  font-style: normal;
+  line-height: normal;
+  text-transform: capitalize;
+  background-color: #132577;
+}

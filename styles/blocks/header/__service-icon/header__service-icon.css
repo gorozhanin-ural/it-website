@@ -1,0 +1,12 @@
+.header__service-icon {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  inline-size: 161px;
+  block-size: 161px;
+  background-color: transparent;
+  background-image: url("../../../../icons/hexagon.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+}

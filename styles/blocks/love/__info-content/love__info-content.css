@@ -1,0 +1,9 @@
+.love__info-content {
+  display: grid;
+  grid-template-rows: 88px 1fr 1fr;
+  grid-template-areas: "image title" "image text" "image button";
+  justify-items: flex-start;
+  align-items: center;
+  column-gap: 20px;
+  overflow: hidden;
+}

@@ -1,0 +1,8 @@
+.testimonials__author-photo {
+  display: block;
+  inline-size: 120px;
+  block-size: 120px;
+  margin-block-end: 20px;
+  border-radius: 120px;
+  object-fit: cover;
+}

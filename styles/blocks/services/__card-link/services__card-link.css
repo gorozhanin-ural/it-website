@@ -1,0 +1,17 @@
+.services__card-link {
+  display: flex;
+  column-gap: 5px;
+  align-self: flex-end;
+  border-block-end: 1px solid currentcolor;
+  overflow: hidden;
+  color: currentcolor;
+  font-size: 14px;
+  text-decoration: none;
+  text-transform: capitalize;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.services__card-link::after {
+  content: ">";
+}

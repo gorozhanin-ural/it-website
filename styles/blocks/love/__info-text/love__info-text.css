@@ -1,0 +1,7 @@
+.love__info-text {
+  grid-area: text;
+  align-self: flex-start;
+  block-size: 100%;
+  margin-block-start: 10px;
+  overflow: hidden;
+}

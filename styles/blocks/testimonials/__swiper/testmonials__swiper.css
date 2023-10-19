@@ -1,0 +1,6 @@
+.testimonials__swiper {
+  box-sizing: border-box;
+  inline-size: 100%;
+  padding: 18px;
+  overflow: hidden;
+}

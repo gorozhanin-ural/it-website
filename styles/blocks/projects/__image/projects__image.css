@@ -1,0 +1,8 @@
+.projects__image {
+  flex-grow: 1;
+  inline-size: 295px;
+  block-size: 180px;
+  border-radius: 5px;
+  object-fit: cover;
+  object-position: center;
+}

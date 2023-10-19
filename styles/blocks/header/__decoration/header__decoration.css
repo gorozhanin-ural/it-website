@@ -1,0 +1,10 @@
+.header__decoration {
+  position: absolute;
+  border-radius: 40px;
+  background: rgb(255 255 255 / 10%);
+  -webkit-transition: -webkit-transform 1s;
+  -o-transition: transform 1s;
+  transition: -webkit-transform 1s;
+  transition: transform 1s;
+  transition: transform 1s, -webkit-transform 1s;
+}

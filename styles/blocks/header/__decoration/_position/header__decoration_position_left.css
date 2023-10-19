@@ -1,0 +1,9 @@
+.header__decoration_position_left {
+  inline-size: 481px;
+  block-size: 438px;
+  -webkit-transform: rotate(-30deg);
+  -ms-transform: rotate(-30deg);
+  transform: rotate(-30deg);
+  inset-block-end: -190px;
+  inset-inline-start: -335px;
+}

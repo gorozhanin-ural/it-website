@@ -1,0 +1,10 @@
+.testimonials__author-activity {
+  max-inline-size: 250px;
+  margin: 0;
+  overflow: hidden;
+  color: #000;
+  text-align: center;
+  text-transform: capitalize;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

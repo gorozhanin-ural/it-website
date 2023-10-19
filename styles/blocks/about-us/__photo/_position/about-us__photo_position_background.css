@@ -1,0 +1,9 @@
+.about-us__photo_position_background {
+  z-index: 1;
+  display: block;
+  box-sizing: border-box;
+  inline-size: 452px;
+  block-size: 393px;
+  inset-block-start: 0;
+  inset-inline-end: 0;
+}

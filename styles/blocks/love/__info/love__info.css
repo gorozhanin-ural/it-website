@@ -1,0 +1,5 @@
+.love__info {
+  display: flex;
+  column-gap: 20px;
+  block-size: 300px;
+}

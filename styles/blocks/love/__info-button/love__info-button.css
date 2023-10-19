@@ -1,0 +1,26 @@
+.love__info-button {
+  display: flex;
+  flex-shrink: 0;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  inline-size: 100%;
+  block-size: 85px;
+  border-radius: 5px;
+  padding: 10px 20px;
+  box-shadow: 0 0 18px 0 rgb(0 0 0 / 10%);
+  overflow: hidden;
+  color: #132577;
+  font-weight: 500;
+  font-size: 24px;
+  writing-mode: vertical-rl;
+  text-decoration: none;
+  text-transform: capitalize;
+  transition: transform 0.5s;
+  transform: scale(-1);
+  white-space: nowrap;
+}
+
+.love__info-button:hover {
+  transform: scale(-1.1);
+}

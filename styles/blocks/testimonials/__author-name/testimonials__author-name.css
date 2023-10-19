@@ -1,0 +1,12 @@
+.testimonials__author-name {
+  max-inline-size: 250px;
+  margin: 0;
+  overflow: hidden;
+  color: #000;
+  font-weight: 600;
+  font-size: 16px;
+  text-align: center;
+  text-transform: uppercase;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

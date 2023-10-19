@@ -1,0 +1,13 @@
+.team__expert {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 10px 10px 65px;
+  box-shadow: 0 0 18px 0 rgb(0 0 0 / 10%);
+}
+
+.team__expert:hover {
+  border-radius: 5px;
+  outline: 2px solid #132577;
+}

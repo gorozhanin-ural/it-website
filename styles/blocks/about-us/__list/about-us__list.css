@@ -1,0 +1,14 @@
+.about-us__list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(215px, max-content));
+  grid-auto-rows: max-content;
+  grid-area: list;
+  column-gap: 50px;
+  margin: 0;
+  padding: 0;
+  padding-inline-start: 8px;
+  font-weight: 500;
+  line-height: 2.8571;
+  text-transform: capitalize;
+  list-style-position: inside;
+}

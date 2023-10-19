@@ -1,0 +1,7 @@
+.love__info-image {
+  grid-area: image;
+  align-self: stretch;
+  inline-size: 295px;
+  object-fit: cover;
+  object-position: center;
+}

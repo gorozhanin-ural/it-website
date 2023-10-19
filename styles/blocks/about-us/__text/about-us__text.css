@@ -1,0 +1,10 @@
+.about-us__text {
+  grid-area: text;
+  margin-block-start: 20px;
+  margin-block-end: 30px;
+  opacity: 0.6;
+  color: #000;
+  font-style: normal;
+  line-height: 1.7857;
+  text-transform: capitalize;
+}

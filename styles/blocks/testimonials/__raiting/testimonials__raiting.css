@@ -1,0 +1,4 @@
+.testimonials__raiting {
+  display: flex;
+  column-gap: 10px;
+}

@@ -1,0 +1,6 @@
+.testimonials__raiting-star {
+  display: block;
+  inline-size: 20px;
+  block-size: 20px;
+  background-image: url("../../../../icons/star.svg");
+}

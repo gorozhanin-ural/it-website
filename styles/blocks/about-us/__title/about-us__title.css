@@ -1,0 +1,5 @@
+.abous-us__title {
+  grid-area: title;
+  align-self: flex-end;
+  text-align: start;
+}

@@ -1,0 +1,5 @@
+.about-us {
+  display: grid;
+  column-gap: 48px;
+  grid-template: "title photos" 100px "subtitle photos" max-content "text photos" max-content "list photos" 1fr / 610px 583px;
+}

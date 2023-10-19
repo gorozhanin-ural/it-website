@@ -1,0 +1,7 @@
+.header__logo {
+  position: relative;
+  grid-area: logo;
+  justify-self: flex-end;
+  align-self: center;
+  margin-inline-end: 220px;
+}

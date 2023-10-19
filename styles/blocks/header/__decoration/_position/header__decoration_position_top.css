@@ -1,0 +1,9 @@
+.header__decoration_position_top {
+  inline-size: 481px;
+  block-size: 300px;
+  -webkit-transform: rotate(60deg);
+  -ms-transform: rotate(60deg);
+  transform: rotate(60deg);
+  inset-block-start: -218px;
+  inset-inline-start: -40px;
+}

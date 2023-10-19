@@ -1,0 +1,22 @@
+.services__card {
+  position: relative;
+  display: grid;
+  flex-grow: 1;
+  grid-template-rows: 60px 1fr min-content;
+  justify-items: flex-start;
+  box-sizing: border-box;
+  inline-size: 295px;
+  min-block-size: 280px;
+  border-radius: 5px;
+  padding: 45px 50px 41px 30px;
+  box-shadow: 0 0 13px 0 rgb(0 0 0 / 10%);
+}
+
+.services__card:hover::before {
+  content: "";
+  position: absolute;
+  inline-size: 100%;
+  block-size: 15px;
+  border-radius: 5px 5px 0 0;
+  background-color: #132577;
+}

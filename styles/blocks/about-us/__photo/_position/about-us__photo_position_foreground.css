@@ -1,0 +1,9 @@
+.about-us__photo_position_foreground {
+  z-index: 3;
+  display: block;
+  box-sizing: border-box;
+  inline-size: 462px;
+  block-size: 358px;
+  inset-block-end: 0;
+  inset-inline-start: 0;
+}

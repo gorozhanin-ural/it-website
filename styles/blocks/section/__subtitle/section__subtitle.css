@@ -1,0 +1,7 @@
+.section__subtitle {
+  inline-size: 500px;
+  margin: 0;
+  font-weight: 700;
+  font-size: 28px;
+  text-transform: capitalize;
+}

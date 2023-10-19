@@ -1,0 +1,19 @@
+.about-us__photos {
+  position: relative;
+  grid-area: photos;
+  block-size: 478px;
+}
+
+.about-us__photos::before {
+  content: "";
+  position: absolute;
+  z-index: 2;
+  display: block;
+  box-sizing: border-box;
+  inline-size: 472px;
+  block-size: 368px;
+  border-radius: 5px;
+  background-color: #fff;
+  inset-block-end: 0;
+  inset-inline-start: 0;
+}

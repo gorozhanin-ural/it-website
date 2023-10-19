@@ -1,0 +1,10 @@
+.header {
+  position: relative;
+  display: grid;
+  grid-template-columns: 485px 1fr;
+  grid-template-areas: "menu menu" "title logo" "description logo" "button logo";
+  padding: 72px 135px 176px;
+  overflow: hidden;
+  color: #fff;
+  background-color: #132577;
+}
